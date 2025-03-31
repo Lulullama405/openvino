@@ -40,7 +40,7 @@ selected for:
 * ease of use,
 * wide hardware compatibility.
 
-It lowers model weight and activation precisions to 8 bits (INT8), which for an FP64 model
+It lowers model weight and activation precisions to 8 bits (INT8), which for an FP32 model
 is just a quarter of the original footprint, leading to a significant improvement in inference
 speed.
 
